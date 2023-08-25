@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Moya30
+- 👋 Hi, I’m Freddy Moya
 - 👀 I’m interested in play and travel
 - 🌱 I’m currently learning ...
-
+- 💞️ I’m React..
 
 <!---
 Moya30/Moya30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
